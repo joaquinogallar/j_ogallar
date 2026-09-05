@@ -1,40 +1,120 @@
-# Joaquin Ogallar 
+# Joaquin Ogallar
 
-Montevideo, Uruguay. 
+**Backend Developer** based in Montevideo, Uruguay.
 
-Currently working at **Distribuidora Sabbatini**
+I mainly work with Java and Spring Boot, building APIs, internal systems and automations.
 
-<!-- [**LeetCode Profile**](https://leetcode.com/u/joaquinogallar/) -->
+I'm currently working at **Distribuidora Sabbatini**, where I support e-commerce operations, identify process improvements, and build automations and internal tools for business workflows.
 
-### About me
-I'm grateful to be doing what I love: solving problems by building software. I'm a backend developer with a growing interest in AI. Outside of coding, I enjoy reading and playing the bass.
+## Projects
 
-### Main Languages
-![My Skills](https://skillicons.dev/icons?i=java,python,js)
+<details>
+<summary><strong>Wholesale order management system</strong> — Java, Spring Boot, PostgreSQL</summary>
 
-### Tools & Frameworks
-![Skills](https://skillicons.dev/icons?i=spring,docker,git,linux,bash)
+<br>
 
-### Cloud & Databases
-![Skills](https://skillicons.dev/icons?i=aws,mongodb,postgresql)
+A system I'm developing to manage customers, sellers and orders for a wholesale business.
 
-### Github Stats
-[![joaquinogallar's GitHub stats](https://gstats.rondrft.workers.dev/api?username=joaquinogallar&card=pass&lang_mode=repos&accent=f9f06b)](https://github.com/joaquinogallar)
+Some of the things I've worked on:
 
-[![joaquinogallar's GitHub stats](https://gstats.rondrft.workers.dev/api?username=joaquinogallar&lang_mode=repos&accent=f9f06b)](https://github.com/joaquinogallar)
+* Authentication with JWT
+* Roles for administrators, sellers and customers
+* Discounts based on customer, product and sales channel
+* Quantity-based promotions such as 11×10 or 21×20
+* Order history and auditing
+* Sales metrics
+* Pagination, validation and error handling
 
-<!--
-![joaquinogallar stats](https://github-readme-stats.vercel.app/api?username=joaquinogallar&show_icons=true&theme=tokyonight&hide_border=true) </br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaquinogallar&layout=donut&theme=tokyonight&hide_border=true) </br>
-![GitHub Streak](https://streak-stats.demolab.com/?user=joaquinogallar&theme=tokyonight&hide_border=true)
+The project is containerized with Docker and deployed on a VPS.
 
-### Activity graph
-![joaquinogallar activity graph](https://github-readme-activity-graph.vercel.app/graph?username=joaquinogallar&theme=tokyo-night&hide_border=true)
+> This is a private repository because it was built for a real business.
 
-![](https://komarev.com/ghpvc/?username=joaquinogallar&color=blue)
--->
+</details>
+
+<details>
+<summary><strong>WhatsApp customer service automation</strong> — n8n, WhatsApp API, AI</summary>
+
+<br>
+
+An automation I'm building for Distribuidora Sabbatini to handle frequently asked questions through WhatsApp.
+
+The assistant can:
+
+* Answer using company-approved information
+* Keep context between messages
+* Detect when a customer needs human assistance
+* Transfer the conversation to a member of the team
+* Switch between bot and human-controlled conversations
+* Store customers and incoming messages
+* Coordinate multiple n8n workflows
+
+This project combines the WhatsApp Cloud API, n8n, an AI model, Google Sheets and PostgreSQL.
+
+> The workflow currently lives in n8n. I'm preparing a sanitized version to publish here.
+
+</details>
+
+<details>
+<summary><strong>Blog REST API</strong> — Java, Spring Boot, PostgreSQL</summary>
+
+<br>
+
+A REST API for managing users, posts, comments and tags.
+
+It includes:
+
+* Authentication with JWT
+* User and administrator roles
+* Login with username or email
+* Pagination
+* API documentation with Swagger
+* PostgreSQL persistence with JPA and Hibernate
+
+[View repository](REPLACE_WITH_REPOSITORY_URL)
+
+</details>
+
+## Stack
+
+### Main stack
+
+Java · Spring Boot · PostgreSQL · Docker
+
+![Main stack](https://skillicons.dev/icons?i=java,spring,postgresql,docker)
+
+### Languages
+
+Java · Python · JavaScript
+
+![Languages](https://skillicons.dev/icons?i=java,python,js)
+
+### Tools
+
+Git · Linux · Bash · Docker
+
+![Tools](https://skillicons.dev/icons?i=git,linux,bash,docker)
+
+### Other technologies I've worked with
+
+AWS · MongoDB
+
+![Other technologies](https://skillicons.dev/icons?i=aws,mongodb)
+
+## About me
+
+Outside of coding, I enjoy reading, playing the bass and learning more about backend architecture, testing and infrastructure.
+
+<details>
+<summary><strong>GitHub stats</strong></summary>
+
+<br>
+
+[![Joaquin's GitHub stats](https://gstats.rondrft.workers.dev/api?username=joaquinogallar\&card=pass\&lang_mode=repos\&accent=f9f06b)](https://github.com/joaquinogallar)
+
+[![Joaquin's most used languages](https://gstats.rondrft.workers.dev/api?username=joaquinogallar\&lang_mode=repos\&accent=f9f06b)](https://github.com/joaquinogallar)
+
+</details>
 
 ---
 
-📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/joaquin-ogallar-a90b2424b/) | [Email](mailto:joaquinnogallar@gmail.com) | [Portfolio](https://joaquinogallar.github.io/)
-
+[LinkedIn](https://www.linkedin.com/in/joaquin-ogallar-a90b2424b/) · [Email](mailto:joaquinnogallar@gmail.com) · [Portfolio](https://joaquinogallar.github.io/)
