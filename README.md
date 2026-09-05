@@ -86,7 +86,7 @@ Java · Spring Boot · PostgreSQL · Docker
 
 Java · Python · JavaScript
 
-![Languages](https://skillicons.dev/icons?i=java,python,js)
+![Languages](https://skillicons.dev/icons?i=java,python,js,ts)
 
 ### Tools
 
