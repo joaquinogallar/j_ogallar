@@ -102,7 +102,7 @@ AWS · MongoDB
 
 ## About me
 
-Outside of coding, I enjoy reading, playing the bass and learning more about backend architecture, testing and infrastructure.
+Outside of coding, I enjoy reading, playing the bass and cooking.
 
 <details>
 <summary><strong>GitHub stats</strong></summary>
