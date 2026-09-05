@@ -84,7 +84,7 @@ Java · Spring Boot · PostgreSQL · Docker
 
 ### Languages
 
-Java · Python · JavaScript
+Java · Python · JavaScript · TypeScript
 
 ![Languages](https://skillicons.dev/icons?i=java,python,js,ts)
 
