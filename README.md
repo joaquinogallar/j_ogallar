@@ -70,7 +70,7 @@ It includes:
 * API documentation with Swagger
 * PostgreSQL persistence with JPA and Hibernate
 
-[View repository](REPLACE_WITH_REPOSITORY_URL)
+[View repository](https://github.com/joaquinogallar/personal-blog-backend.git)
 
 </details>
 
